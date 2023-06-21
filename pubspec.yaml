@@ -87,9 +87,6 @@ flutter:
     - lib/videos/momento_1.png
     - lib/videos/momento_2.png
     - lib/videos/momento_3.png
-    - lib/videos/momento1.mp4
-    - lib/videos/momento2.mp4
-    - lib/videos/momento3.mp4
 
   # To add assets to your application, add an assets section, like this:
   # assets:
